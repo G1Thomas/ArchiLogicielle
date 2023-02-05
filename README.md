@@ -2,7 +2,7 @@
 
 Membres de l'equipe :
 
-Anthony Chomette
+Anthony Chomette  
 Thomas Genin
 
 Elements du cahier des charges realises :
